@@ -27,7 +27,7 @@ npm start
 ### What's Happening Here?
 1. **npx** is creating a react project structure with the name
 replace-this-with-application-name in the current working directory
-  * This can take a minute or so to download and install all the dependencies
+    * This can take a minute or so to download and install all the dependencies
 2. Moving into the project folder
 3. Using **npm** to start the web app on a development server
 
