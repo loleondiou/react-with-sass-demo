@@ -1,0 +1,30 @@
+.app {
+    background: #000;
+
+    .app-header {
+        background: grey;
+        .header {
+            color: #fff;
+        }
+    }
+
+    .content {
+        color: orange;
+    }
+
+    .list {
+        color: yellow;
+    }
+}
+
+// Generated css
+// .app {
+//     background: #000; }
+//     .app .app-header {
+//       background: grey; }
+//       .app .app-header .header {
+//         color: #fff; }
+//     .app .content {
+//       color: orange; }
+//     .app .list {
+//       color: yellow; }
